@@ -1,6 +1,6 @@
-# desafio-senior-pesquisador
+# Desafio Senior - pesquisador
 
-One Paragraph of project description goes here
+A quantidade de spams que a Senior Sistemas recebe diariamente, não para de crescer. Os tipos de spam são diversos: anúncios de produtos / web sites, esquemas para ganhar dinheiro rápido, correntes, pornografia e etc. Dessa forma, como desafio aos seus candidatos a pesquisador, a Senior propôs o desafio considerando uma base de mensagens classificada em "Comum" ou "Spam". 
 
 ## Getting Started
 
